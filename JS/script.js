@@ -8,19 +8,19 @@ let question1 {
 	currectAnswer = 'Брэндон Эйх'
 }
 
-let question1 {
+let question2 {
 	question = 'Сколько дней ушло на создание JS', 
 	answer = '',
 	currectAnswer = 10
 }
 
-let question1 {
+let question3 {
 	question = 'Сколько типов данных в JS', 
 	answer = '',
 	currectAnswer = 8
 }
 
-let question1 {
+let question4 {
 	question = 'Год создания JS', 
 	answer = '',
 	currectAnswer = 1995
